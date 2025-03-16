@@ -1,5 +1,5 @@
 Hi! I'm CodeCrafter, a developer passionate about AI, automation, and system integrations.  
-I specialize in LLMs, chatbot development, inventory tracking, and backend automation**.
+I specialize in LLMs, chatbot development, inventory tracking, and backend automation.
 
 - 💡 What I Work On
 - 🤖 LLMs & AI Models - Exploring offline AI models like Mistral 7B with Ollama**.

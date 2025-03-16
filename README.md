@@ -18,9 +18,6 @@ I specialize in LLMs, chatbot development, inventory tracking, and backend autom
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeCrafter&show_icons=true&theme=tokyonight)
 
-📬 Let's Connect!
-- 🌍 **Website: [Coming Soon]
-- 📨 **Email: dinhhan57@gmail.com
 <!---
 wysesoftinsight/wysesoftinsight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

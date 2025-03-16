@@ -6,7 +6,7 @@ I specialize in LLMs, chatbot development, inventory tracking, and backend autom
 - 💬 Building Chatbots - Developing intelligent OpenWebUI integrations for automation.
 - 📦 Inventory Tracking - Automating real-time stock management systems.
 - 🔧 API Development - Creating FastAPI and Flask microservices.
-- 🖥 Self-Hosting & VPS Setup** - Deploying AI apps & APIs on private servers.
+- 🖥 Self-Hosting & VPS Setup - Deploying AI apps & APIs on private servers.
   🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
